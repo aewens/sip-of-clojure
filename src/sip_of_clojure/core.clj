@@ -2,6 +2,6 @@
   (:gen-class))
 
 (defn -main
-  "I don't do a whole lot ... yet."
+  "the origin of this lovely program"
   [& args]
-  (println "Hello, World!"))
+  (println (str "2 + 2 is " (+ 2 2))))
